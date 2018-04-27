@@ -2,7 +2,17 @@ CHANGE LOG
 ==========
 
 
-## V7.1 (Upcoming)
+## V7.3 (02/04/2018)
+
+* Support no authentication
+
+
+## V7.2 (24/03/2018)
+
+* Support knplabs/github-api 2.8 too
+
+
+## V7.1 (18/03/2018)
 
 * Use the new cache plugin package
 
